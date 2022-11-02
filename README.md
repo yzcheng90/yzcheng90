@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java Android Vue JS 
 - 🌱 I’m currently learning C#
-- 📫 How to reach me: QQ:913624256 Group:17470566
+- 📫 How to reach me Group:17470566
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
